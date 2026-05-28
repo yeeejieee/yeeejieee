@@ -1,7 +1,7 @@
 👋 Hi there, I'm Yi Jie!
 
 ## 🎓 About Me
-- Business Analytics student at NUS
+- Business Analytics student at NUS (Machine Learning and Finance Specialisation)
 - Interested in full-stack development and data-driven applications
 - Interested in the field of data and cloud computing
 
@@ -19,3 +19,5 @@ Big Data: PySpark, Spark MLlib
   book discovery, using PySpark, LangGraph, and LLM-extracted 
   narrative features to power a hybrid recommendation engine
 
+## ⚡ Others
+- NUS Canoe Polo Varsity Team Athlete
