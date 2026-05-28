@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi there, I'm Yi Jie!
 
-<!--
-**yeeejieee/yeeejieee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- Business Analytics student at NUS
+- Interested in full-stack development and data-driven applications
+- Interested in the field of data and cloud computing
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+Languages: Python, Java, JavaScript, SQL, R, SAS, Tableau
+Frontend: Vue.js, HTML, CSS, Flutter
+Backend/DB: Firebase, Firestore, Supabase
+Big Data: PySpark, Spark MLlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Main Projects
+- **JobTrack** – A kanban-based internship tracker with 
+  crowdsourced company insights and peer interview Q&A, 
+  built with Vue + Firebase
+- **BookVibe** – An agentic big data pipeline for trope-based 
+  book discovery, using PySpark, LangGraph, and LLM-extracted 
+  narrative features to power a hybrid recommendation engine
+
