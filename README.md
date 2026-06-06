@@ -12,6 +12,11 @@ Backend/DB: Firebase, Firestore, Supabase
 Big Data: PySpark, Spark MLlib
 
 ## 🚀 Main Projects
+
+- **GymGenie**– An all-in-one iOS fitness app with workout logging, meal tracking
+  with macro breakdowns, HealthKit-powered step counting, and an
+  interactive anatomy explorer linking muscle groups to exercise guides.
+  Built with Flutter + Supabase, designed in Figma, shipped via TestFlight
 - **JobTrack** – A kanban-based internship tracker with 
   crowdsourced company insights and peer interview Q&A, 
   built with Vue + Firebase
